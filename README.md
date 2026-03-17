@@ -1,2 +1,40 @@
-# Data_Analysis_Dashboard
+# 📊 Sales Data Analysis Dashboard (Excel)
+
+## 📌 Project Overview
+This project focuses on analyzing sales data using Microsoft Excel.  
+The goal is to identify key business insights such as top-selling products, category-wise sales, and region-wise performance.
+
+---
+
+## 🛠️ Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data Visualization
+
+---
+
+## 📈 Key Insights
+- Identified **Top 10 Selling Products**
+- Analyzed **Category-wise Sales Performance**
+- Compared **Region-wise Sales**
+- Extracted meaningful insights using Pivot Tables
+
+---
+
+## 📊 Dashboard Features
+- Interactive Pivot Tables
+- Dynamic Charts
+- Clean and structured dashboard layout
+- Easy-to-understand visual representation
+
+--
+
+## 📂 Files Included
+- `sales_dashboard.xlsx` → Excel dashboard file
+
+---
+
+## 🚀 Conclusion
+This project demonstrates how Excel can be used as a powerful data analysis tool to generate insights and support business decisions.# Data_Analysis_Dashboard
 Customer and Sales Analysis using Dashboard
